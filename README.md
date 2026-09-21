@@ -28,8 +28,8 @@ Mata kuliah ini membahas fundamental komunikasi data, arsitektur jaringan TCP/IP
 ## 4. Rencana Kegiatan Pembelajaran Mingguan (16 Pertemuan)
 
 | Minggu | Kemampuan Akhir yang Diharapkan (Sub-CPMK) | Materi Pembelajaran | Bentuk & Metode Pembelajaran | Penilaian (Indikator & Kriteria) | Bobot |
-| :---: | :--- | :--- | :--- | :--- | :---: |
-| **1** | Memahami fondasi komunikasi data, OSI, dan TCP/IP. | 1. Konsep Komunikasi Data & Topologi<br>2. Model OSI 7 Layer & DoD (TCP/IP)<br>3. Pengalamatan IP (IPv4) & *Subnetting* (VLSM) | Kuliah Interaktif, Latihan<br>*(TM: 1x50", P: 2x170")* | Kecepatan & ketepatan dalam menyelesaikan soal *subnetting*. | 2% |
+| :---: | :--- | :--- | :--- | :--- | :---: | :---: |
+| **1** | Memahami fondasi komunikasi data, OSI, dan TCP/IP. | 1. Konsep Komunikasi Data & Topologi<br>2. Model OSI 7 Layer & DoD (TCP/IP)<br>3. Pengalamatan IP (IPv4) & *Subnetting* (VLSM) | Kuliah Interaktif, Latihan<br>*(TM: 1x50", P: 2x170")* | Kecepatan & ketepatan dalam menyelesaikan soal *subnetting*. | 2% | Link |
 | **2** | **[MTCNA]** Menguasai manajemen dasar *RouterOS*. | 1. Arsitektur MikroTik (RouterBoard vs CHR)<br>2. Akses (Winbox, CLI, SSH, Mac-Telnet)<br>3. *User Management*, *Backup/Restore*, & NTP | Praktikum, *Hands-on*<br>*(TM: 1x50", P: 2x170")* | Keberhasilan *login* awal, konfigurasi identitas, dan *backup* sistem. | 5% |
 | **3** | **[MTCNA]** Mengimplementasikan jaringan LAN terpusat. | 1. Konsep *Bridging* & *Switching* di MikroTik<br>2. ARP (Address Resolution Protocol)<br>3. DHCP Server, DHCP Client, & DHCP Relay | Praktikum, *Hands-on*<br>*(TM: 1x50", P: 2x170")* | PC Klien berhasil mendapatkan IP dinamis dan terhubung ke *router*. | 5% |
 | **4** | **[MTCNA]** Mengonfigurasi *Wireless* dasar. | 1. Standar 802.11 (a/b/g/n/ac)<br>2. Setup AP, Station, & *Security Profiles*<br>3. *Wireless Tools* (Snooper, Scanner) | Praktikum<br>*(TM: 1x50", P: 2x170")* | Klien berhasil terhubung ke SSID dengan autentikasi WPA2. | 5% |
