@@ -2,7 +2,7 @@
 
 **Mata Kuliah:** Jaringan Komputer dan Komunikasi Data  
 **Bobot SKS:** 3 SKS (1 Teori, 2 Praktikum)  
-**Semester:** Ganjil / Genap  
+**Semester:** 3
 **Prasyarat:** Sistem Operasi, Arsitektur Komputer  
 
 ---
